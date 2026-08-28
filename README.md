@@ -277,10 +277,5 @@ Textures
    ↓
 Final Image
 ```
-
-## 👨‍💻 Author
-
-**ayoub**
-
 42 School Student
 
